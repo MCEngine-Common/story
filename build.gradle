@@ -58,10 +58,10 @@ repositories {
         }
     }
 
-    configureGitHubRepo('MCEngine Core API', 'https://maven.pkg.github.com/MCEngine/core-api')
-    configureGitHubRepo('MCEngine Artificial Intelligence API', 'https://maven.pkg.github.com/MCEngine/artificialintelligence-api')
-    configureGitHubRepo('MCEngine Currency API', 'https://maven.pkg.github.com/MCEngine/currency-api')
-    configureGitHubRepo('MCEngine Story API', 'https://maven.pkg.github.com/MCEngine/story-api')
+    configureGitHubRepo('MCEngine Core API', 'https://maven.pkg.github.com/MCEngine-API/core')
+    configureGitHubRepo('MCEngine Artificial Intelligence API', 'https://maven.pkg.github.com/MCEngine-API/artificialintelligence')
+    configureGitHubRepo('MCEngine Currency API', 'https://maven.pkg.github.com/MCEngine-API/currency')
+    configureGitHubRepo('MCEngine Story API', 'https://maven.pkg.github.com/MCEngine-API/story')
 }
 
 dependencies {
